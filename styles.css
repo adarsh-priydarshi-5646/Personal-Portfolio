@@ -95,6 +95,7 @@ p#message {
     transform: scale(1.2);
   }
 }
+
 .navbar {
   display: flex;
   justify-content: space-between;
